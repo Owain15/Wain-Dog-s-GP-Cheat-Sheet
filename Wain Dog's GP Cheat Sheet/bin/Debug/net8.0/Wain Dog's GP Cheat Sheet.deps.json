@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Wain Dog's GP Cheat Sheet/1.0.0": {
+        "runtime": {
+          "Wain Dog's GP Cheat Sheet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wain Dog's GP Cheat Sheet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

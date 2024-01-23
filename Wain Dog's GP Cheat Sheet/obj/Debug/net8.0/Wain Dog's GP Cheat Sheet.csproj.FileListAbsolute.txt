@@ -1,0 +1,14 @@
+C:\Users\ojdav\visual studio files\Wain Dog's GP Cheat Sheet\Wain Dog's GP Cheat Sheet\obj\Debug\net8.0\Wain Dog's GP Cheat Sheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ojdav\visual studio files\Wain Dog's GP Cheat Sheet\Wain Dog's GP Cheat Sheet\obj\Debug\net8.0\Wain Dog's GP Cheat Sheet.AssemblyInfoInputs.cache
+C:\Users\ojdav\visual studio files\Wain Dog's GP Cheat Sheet\Wain Dog's GP Cheat Sheet\obj\Debug\net8.0\Wain Dog's GP Cheat Sheet.AssemblyInfo.cs
+C:\Users\ojdav\visual studio files\Wain Dog's GP Cheat Sheet\Wain Dog's GP Cheat Sheet\obj\Debug\net8.0\Wain Dog's GP Cheat Sheet.csproj.CoreCompileInputs.cache
+C:\Users\ojdav\visual studio files\Wain Dog's GP Cheat Sheet\Wain Dog's GP Cheat Sheet\bin\Debug\net8.0\Wain Dog's GP Cheat Sheet.exe
+C:\Users\ojdav\visual studio files\Wain Dog's GP Cheat Sheet\Wain Dog's GP Cheat Sheet\bin\Debug\net8.0\Wain Dog's GP Cheat Sheet.deps.json
+C:\Users\ojdav\visual studio files\Wain Dog's GP Cheat Sheet\Wain Dog's GP Cheat Sheet\bin\Debug\net8.0\Wain Dog's GP Cheat Sheet.runtimeconfig.json
+C:\Users\ojdav\visual studio files\Wain Dog's GP Cheat Sheet\Wain Dog's GP Cheat Sheet\bin\Debug\net8.0\Wain Dog's GP Cheat Sheet.dll
+C:\Users\ojdav\visual studio files\Wain Dog's GP Cheat Sheet\Wain Dog's GP Cheat Sheet\bin\Debug\net8.0\Wain Dog's GP Cheat Sheet.pdb
+C:\Users\ojdav\visual studio files\Wain Dog's GP Cheat Sheet\Wain Dog's GP Cheat Sheet\obj\Debug\net8.0\Wain Dog's GP Cheat Sheet.dll
+C:\Users\ojdav\visual studio files\Wain Dog's GP Cheat Sheet\Wain Dog's GP Cheat Sheet\obj\Debug\net8.0\refint\Wain Dog's GP Cheat Sheet.dll
+C:\Users\ojdav\visual studio files\Wain Dog's GP Cheat Sheet\Wain Dog's GP Cheat Sheet\obj\Debug\net8.0\Wain Dog's GP Cheat Sheet.pdb
+C:\Users\ojdav\visual studio files\Wain Dog's GP Cheat Sheet\Wain Dog's GP Cheat Sheet\obj\Debug\net8.0\Wain Dog's GP Cheat Sheet.genruntimeconfig.cache
+C:\Users\ojdav\visual studio files\Wain Dog's GP Cheat Sheet\Wain Dog's GP Cheat Sheet\obj\Debug\net8.0\ref\Wain Dog's GP Cheat Sheet.dll
